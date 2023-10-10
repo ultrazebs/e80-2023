@@ -11,3 +11,5 @@ Aggiungo una riga per mostrare il controllo di versione all'interno di Visual st
 Aggiungo ulteriore riga per prova messaggio rosso
 
 aggiungo ulteriore riga per provare funzionalità "Message"
+
+Prova modalità sync
