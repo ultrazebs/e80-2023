@@ -5,3 +5,5 @@ Ciao come stai, questa è la prima MODIFICA del file primo "file.txt"
 Questa modifica è stata fatta per provare il funzionamento del comando "diff"
 
 ciao
+
+Aggiungo una riga per mostrare il controllo di versione all'interno di Visual studio code
