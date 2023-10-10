@@ -12,4 +12,3 @@ Aggiungo ulteriore riga per prova messaggio rosso
 
 aggiungo ulteriore riga per provare funzionalità "Message"
 
-Prova modalità sync
