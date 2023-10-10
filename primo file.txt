@@ -2,4 +2,6 @@ file di prova per il controllo di versione
 
 Ciao come stai, questa è la prima MODIFICA del file primo "file.txt"
 
-questa modifica è stata fatta su github
+Questa modifica è stata fatta per provare il funzionamento del comando "diff"
+
+ciao
